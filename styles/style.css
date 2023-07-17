@@ -1,0 +1,28 @@
+.swimming{
+    text-align: center;
+    height: 500px;
+    
+    padding: 100px;
+   
+    background-color: rgba(235, 220, 220, 0.42);
+   
+}
+
+#ring{
+    position: relative;
+    z-index: 1;
+
+}
+
+
+#boy{
+position: relative;
+top: 75px;
+z-index: 2;
+}
+
+#water{
+    position: relative;
+    top: -75px;
+}
+
